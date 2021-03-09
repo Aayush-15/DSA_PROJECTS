@@ -1,0 +1,3 @@
+In computer science, a Data Structure is a data organization, management, and storage format that enables efficient access and modification.
+More precisely, a Data Structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+Some examples of Data Structure are arrays, Linked List, Stack, Queue, etc.
